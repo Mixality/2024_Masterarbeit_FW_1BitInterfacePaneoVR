@@ -1,6 +1,7 @@
 # Barrierefreiheit in Virtual Reality – Konzeption, Implementierung und Evaluation von binären Interaktionsschnittstellen in PaneoVR für Nutzende mit motorischen Einschränkungen
 
 Kurzfassung: 
+
 Diese Arbeit untersucht die Entwicklung binärer Interaktionsschnittstellen für Virtual Reality (VR) Anwendungen mit dem Ziel, die Zugänglichkeit für Menschen mit motorischen Beeinträchtigungen zu verbessern. Auf Basis einer strukturierten Konzeption wurden zwei Ansätze entwickelt, die auf den etablierten Scanning-Verfahren Automatic Item Scanning und Continuous Cartesian Scanning basieren und gezielt für den Einsatz in VR adaptiert wurden. Beide Ansätze wurden prototypisch auf Basis des Tools PaneoVR implementiert.
 
 Die anschließende Evaluation der implementierten Schnittstellen untersuchte die Unterschiede hinsichtlich Effizienz, Erlernbarkeit, Robustheit, Usability, User Experience (UX) und dem Auftreten von Motion Sickness. Die Ergebnisse zeigen, dass das Item Scanning durch technische Vorteile wie eine höhere Interaktionsgeschwindigkeit und Robustheit überzeugt, während das Cartesian Scanning in den subjektiven Bewertungen, insbesondere in Bezug auf Usability und UX, positiver wahrgenommen wird.
