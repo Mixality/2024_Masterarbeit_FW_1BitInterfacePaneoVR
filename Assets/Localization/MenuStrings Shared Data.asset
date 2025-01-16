@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: MenuStrings Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: MenuStrings
+  m_TableCollectionNameGuidString: c95fd3279e5fc7e43ba29009f3f6d509
+  m_Entries:
+  - m_Id: 12097785405440
+    m_Key: SURE_TO_DELETE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12344280457216
+    m_Key: LOAD_SCENARIO
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12425121472512
+    m_Key: UPDATE_SCENARIO
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12507799592960
+    m_Key: DOWNLOAD_SCENARIO
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12553962102784
+    m_Key: LOCAL_USER
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12609939283968
+    m_Key: ADDITIONAL_DATA_LOW
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12671322923008
+    m_Key: ADDITIONAL_DATA_MEDIUM
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12712955584512
+    m_Key: ADDITIONAL_DATA_HIGH
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12755808788480
+    m_Key: UNKNOWN
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33593568239616
+    m_Key: UserMenu/UserMenu/Canvas/Panel/LogoutGroup/LogoutBtn/Text
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33748463886336
+    m_Key: UserMenu/UserMenu/Canvas/Panel/LogoutGroup/UsernameLabel
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 642810007745724441
+  references:
+    version: 2
+    RefIds:
+    - rid: 642810007745724441
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables,
+        asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1715678374458

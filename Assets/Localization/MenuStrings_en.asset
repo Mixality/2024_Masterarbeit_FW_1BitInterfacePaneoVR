@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: MenuStrings_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: c95fd3279e5fc7e43ba29009f3f6d509, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 12097785405440
+    m_Localized: Are you sure you want to delete the project from the device?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12344280457216
+    m_Localized: Load Scenario
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12425121472512
+    m_Localized: Update Scenario
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12507799592960
+    m_Localized: Download Scenario
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12553962102784
+    m_Localized: Local User
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12609939283968
+    m_Localized: ' (VQ Low)'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12671322923008
+    m_Localized: ' (VQ Medium)'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12712955584512
+    m_Localized: ' (VQ High)'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12755808788480
+    m_Localized: unknown
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33593568239616
+    m_Localized: Log Out
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33748463886336
+    m_Localized: Logged In As
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

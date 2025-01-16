@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - VideoController
+  - EditModeController
+  - SceneManager
+  - SceneList
+  - TriggerContextMenu
+  - Stealthed
+  - EditModeUI
+  - SceneCurtain
+  - PlayerAvatar
+  - EventSystem
+  - MainXRRig
+  - ImageUI
+  - ImageBox
+  - SharedIcon
+  - LeftHand
+  - RightHand
+  - InteractableElement
+  - HUD
+  - NAV
+  - Verify
+  - LineH
+  - Interactive
+  - Menu
+  - Hint
+  - ImageBack
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - InvisibleForPlayer
+  - Water
+  - UI
+  - 
+  - 
+  - SphereRaycastOnly
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
